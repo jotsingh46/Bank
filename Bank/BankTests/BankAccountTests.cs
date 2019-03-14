@@ -5,7 +5,7 @@ namespace BankTests
 {
     /* Course code : CSD 3354 SECTION 1  2019 W
      * NAME -  MANJOT SINGH #STUDENT ID - C0730244
- * NAME - PARMINDER GILL #STUDENT ID - C0732160
+    * NAME - PARMINDER GILL #STUDENT ID - C0732160
  */
     [TestClass]
     public class BankAccountTests

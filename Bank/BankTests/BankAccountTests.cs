@@ -3,7 +3,8 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using BankAccountNS;
 namespace BankTests
 {
-    /* NAME -  MANJOT SINGH #STUDENT ID - C0730244
+    /* Course code : CSD 3354 SECTION 1  2019 W
+     * NAME -  MANJOT SINGH #STUDENT ID - C0730244
  * NAME - PARMINDER GILL #STUDENT ID - C0732160
  */
     [TestClass]

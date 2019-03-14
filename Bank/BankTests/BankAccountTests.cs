@@ -31,7 +31,7 @@ namespace BankTests
             BankAccount account = new BankAccount("Mr. Bryan Walton", beginningBalance);
             //Act
             account.Debit(debitAmount);
-            //Assert is handled by the expectedException attribute on the test method
+            //Assert is handled by the expectedException attribute on the test method.
         }
     }
 }

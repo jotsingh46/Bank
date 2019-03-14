@@ -3,6 +3,9 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using BankAccountNS;
 namespace BankTests
 {
+    /* NAME -  MANJOT SINGH #STUDENT ID - C0730244
+ * NAME - PARMINDER GILL #STUDENT ID - C0732160
+ */
     [TestClass]
     public class BankAccountTests
     {

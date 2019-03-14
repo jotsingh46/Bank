@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace C0696464_Ravinder_Singh__C0703625
+namespace BankAccountNS
 {
 
     public class BankAccount
@@ -12,6 +12,7 @@ namespace C0696464_Ravinder_Singh__C0703625
         private string m_customerName;
         private double m_balance;
         private bool m_frozen = false;
+
         private BankAccount()
         {
 
@@ -44,7 +45,7 @@ namespace C0696464_Ravinder_Singh__C0703625
             {
                 throw new ArgumentOutOfRangeException("amount");
             }
-            m_balance += amount;
+            m_balance -= amount;
         }
         public void Credit(double amount)
         {

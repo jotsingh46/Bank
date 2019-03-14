@@ -33,7 +33,6 @@ namespace BankAccountNS
         {
             get { return m_balance; }
         }
-
         public void Debit(double amount)
         {
             if (m_frozen)
